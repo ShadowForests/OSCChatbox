@@ -1,0 +1,17 @@
+{
+    "ip": "127.0.0.1",
+    "port": 9000,
+
+    "window": "VRChat",
+    "transcript": true,
+    "send_immediate": true,
+
+    "socket_connection": true,
+    "socket_ip": "127.0.0.1",
+    "socket_port": 3000,
+
+    "enable_keyboard_key": "=",
+    "disable_keyboard_key": "esc",
+    "osc_chatbox_input": "/chatbox/input",
+    "osc_chatbox_typing": "/chatbox/typing"
+}
